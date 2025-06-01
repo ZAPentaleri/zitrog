@@ -41,7 +41,7 @@ LOGO = """
                               /_____\|_||_| /_/ (R)
 
                            Zoe's ID3 Tag Retroencoder
-                              for Outdated Devices
+                              for Outdated Gadgets
                                     (ZITROG)
 """
 

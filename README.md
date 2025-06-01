@@ -1,9 +1,9 @@
 
-# Zoe's ID3 Tag Retroencoder for Outdated Devices &mdash; ZITROG
+# Zoe's ID3 Tag Retroencoder for Outdated Gadgets &mdash; ZITROG
 
 ## Introduction
 A Q&D utility for re-encoding modern MP3 ID3 tags into obsolete encoding formats
-for use with outdated devices -- MP3 players, PDAs, localized PC media players,
+for use with outdated gadgets -- MP3 players, PDAs, localized PC media players,
 etc. At present, only Unicode decoding and Shift-JIS encoding are supported, but
 other formats may be added in the future.
 
