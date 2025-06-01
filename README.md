@@ -31,6 +31,10 @@ other formats may be added in the future.
   -v, --verbose         Enable verbose output during encoding
 ```
 
+## Demonstration
+![An example of a retro device displaying re-encoded ID3 tags](https://github.com/ZAPentaleri/zitrog/blob/main/saisei.png?raw=true)  
+*Welcome back, PEG-NZ90.*
+
 ## Artwork
 ```
     _______ ______     __
